@@ -1,8 +1,8 @@
-##Hi, I'm Tri!##
+Hi, I'm Tri!
 
 👩🏻‍💻 Data Analytics Intern
 
-👩🏻‍🎓 Studied Computer Science at Ton Duc Thang University, Viet Nam.
+👩🏻‍🎓 Studied Computer Science at Ton Duc Thang University, Viet Nam
 
 💭 Currently learning about Business Intelligence and lala!
 
