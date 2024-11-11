@@ -1,4 +1,4 @@
-Hi, I'm Tri!
+# Hi, I'm Tri!
 
 👩🏻‍💻 Data Analytics Intern
 
