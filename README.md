@@ -21,8 +21,8 @@ Hi, I'm Tri!
 # 📬 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tran-le-minh-tri-2547782a1/)](https://www.linkedin.com/in/tran-le-minh-tri-2547782a1/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)]([https://stackoverflow.com/users/16092222/yoru](https://stackoverflow.com/users/28246642/tr%c3%ad-tr%e1%ba%a7n-l%c3%aa-minh))
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/28246642/tr%c3%ad-tr%e1%ba%a7n-l%c3%aa-minh)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tranleminhtri832@gmail.com)](mailto:tranleminhtri832@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square)]([https://facebook.com/K2835](https://www.facebook.com/pumons/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square)](https://www.facebook.com/pumons/)
 
 
