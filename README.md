@@ -7,12 +7,13 @@
 
 💭 Currently learning about Business Intelligence and lala!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GreenNice&show_icons=true&theme=radical)](https://github.com/GreenNice/github-readme-stats)
+<!-- GitHub stats from https://github.com/GreenNice/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=GreenNice&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GreenNice&theme=dark&hide_border=false&layout=compact)
   
 ---
-[![](https://visitcount.itsvg.in/api?id=yoru-is-baam&icon=7&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GreenNice&icon=7&color=9)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack
