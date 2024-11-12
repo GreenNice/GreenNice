@@ -7,16 +7,15 @@
 
 💭 Currently learning about Business Intelligence and lala!
 
-<!-- GitHub stats from https://github.com/GreenNice/github-readme-stats -->
+
 ![](https://github-readme-stats.vercel.app/api?username=GreenNice&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-  
----
+
 [![](https://visitcount.itsvg.in/api?id=GreenNice&icon=7&color=9)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
