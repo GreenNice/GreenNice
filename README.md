@@ -1,11 +1,11 @@
 # Hi, I'm Tri!
 
 
-👩🏻‍💻 Data Analytics Intern
+👩🏻‍💻 Database Administrator Intern
 
 👩🏻‍🎓 Studied Computer Science at Ton Duc Thang University, Viet Nam
 
-💭 Currently learning about Business Intelligence and lala!
+💭 Currently learning about Data Scientist <<:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=GreenNice&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
